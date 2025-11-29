@@ -1,20 +1,40 @@
-<img width="634" height="350" alt="image" src="https://github.com/user-attachments/assets/b032802b-c379-4f22-bd7c-1c1dc6fecdc6" /># 📦 Medical Inventory Automation Bot
-Automation system that tracks medical supplies, predicts shortages, and triggers automatic reorders.
-## 🚀 Features
-- Real-time SKU tracking
-- Google Sheets → API sync
-- Reorder prediction using usage patterns
-- Email/SMS stock alerts
-- Automatic vendor purchase order generator
+## 👋 Hi, I'm Skye — Full-Stack Developer & AI Engineer (Health-Tech)
 
-## 🛠 Tech Stack
-- Python, Pandas
-- Node.js (optional API layer)
-- Google Sheets API
-- Supabase / PostgreSQL
-- Docker container worker
-## 📌 Highlights
-- Built for clinics, pharmacies, and dental offices  
-- Eliminates stock-outs and manual spreadsheet work  
-- 100% customizable workflows
-<img width="634" height="350" alt="image" src="https://github.com/user-attachments/assets/40bd009a-a888-4089-935b-4ea982ad0a21" />
+Serbia-based developer focused on **digital health**, **medical AI**, and **automation for clinics and hospitals**.  
+I build secure, scalable, production-ready platforms used in real medical workflows.
+
+---
+
+### 🩺 What I Do
+- AI diagnostic tools (dermatology, radiology, imaging)
+- Telemedicine platforms (video, scheduling, e-prescriptions)
+- Hospital automation workflows (intake, labs, triage)
+- HIPAA/GDPR-compliant systems
+- Real-time dashboards for vitals, labs, & treatment data
+
+---
+
+### ⚙️ Tech Stack
+**Frontend:** React, Next.js, Tailwind  
+**Backend:** Node.js, NestJS, FastAPI  
+**Databases:** PostgreSQL, Supabase  
+**AI:** PyTorch, OpenAI, CV models  
+**Infrastructure:** Docker, Nginx, DigitalOcean, AWS  
+
+---
+
+### 🔬 Featured Projects
+- **AI Dermatology Platform** — Image analysis + diagnosis  
+- **Telemedicine Scheduling System** — Appointments, video, e-Rx  
+- **Hospital Automation Bot** — Automated lab/triage flows  
+- **Medical Inventory Automation** — Predictive reorder system  
+
+---
+
+### 📬 Let’s Connect
+- Email: your@email.com  
+- LinkedIn: your-profile  
+- Portfolio: your-website  
+
+---
+⭐️ *Always open to collaborations in digital health, med-AI, and automation.*
