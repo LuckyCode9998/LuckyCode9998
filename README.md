@@ -32,7 +32,7 @@ I build secure, scalable, production-ready platforms used in real medical workfl
 ---
 
 ### 📬 Let’s Connect
-- Email: your@email.com  
+- Email: jggss1111@outlook.com  
 - LinkedIn: your-profile  
 - Portfolio: your-website  
 
