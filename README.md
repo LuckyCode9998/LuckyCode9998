@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Skye — Full-Stack Developer & AI Engineer (Health-Tech)
+## 👋 Full-Stack Developer & AI Engineer
 
-Poland-based developer focused on **digital health**, **medical AI**, and **automation for clinics and hospitals**.  
 I build secure, scalable, production-ready platforms used in real medical workflows.
 
 ---
