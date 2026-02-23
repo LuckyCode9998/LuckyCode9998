@@ -85,13 +85,6 @@ I build secure, scalable, production-ready platforms used in real medical workfl
 - **Medical Inventory Automation** — Predictive reorder system  
 
 ---
-
-### 📬 Let’s Connect
-- Email: jggss1111@outlook.com  
-- LinkedIn: your-profile  
-- Portfolio: your-website  
-
----
 ⭐️ *Always open to collaborations in digital health, med-AI, and automation.*
 
 
